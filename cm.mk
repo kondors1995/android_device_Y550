@@ -24,6 +24,9 @@ $(call inherit-product, vendor/cm/config/nfc_enhanced.mk)
 # Inherit some common CM stuff.
 $(call inherit-product, vendor/cm/config/common_full_phone.mk)
 
+TARGET_SCREEN_HEIGHT := 854
+TARGET_SCREEN_WIDTH := 480
+
 PRODUCT_DEVICE := cherry
 PRODUCT_NAME := cm_cherry
 PRODUCT_BRAND := Huawei
