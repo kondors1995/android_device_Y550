@@ -27,10 +27,10 @@ $(call inherit-product, vendor/cm/config/common_full_phone.mk)
 TARGET_SCREEN_HEIGHT := 854
 TARGET_SCREEN_WIDTH := 480
 
-PRODUCT_DEVICE := Y550
-PRODUCT_NAME := cm_Y550
+PRODUCT_DEVICE := cherry
+PRODUCT_NAME := cm_cherry
 PRODUCT_BRAND := Huawei
-PRODUCT_MODEL := Y550
+PRODUCT_MODEL := cherry
 PRODUCT_MANUFACTURER := HUAWEI
 
 PRODUCT_GMS_CLIENTID_BASE := android-huawei

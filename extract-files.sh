@@ -18,7 +18,7 @@
 set -e
 
 # Required!
-export DEVICE=Y550
+export DEVICE=cherry
 export DEVICE_COMMON=msm8916-common
 export VENDOR=huawei
 
