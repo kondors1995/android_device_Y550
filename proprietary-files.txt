@@ -1,0 +1,7 @@
+# NFC
+etc/firmware/fused_nvm_c8817d.bin
+etc/firmware/nfc_test.bin
+etc/nfc/hardfault.cfg
+vendor/lib/libqnfc-nci.so
+vendor/lib/libqnfc_nci_jni.so
+vendor/lib/hw/nfc_nci.qc199x.default.so
